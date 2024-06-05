@@ -1,4 +1,4 @@
-# Data Science Exploration
+ # Data Science Exploration
 
 Welcome to the "Data Science Exploration" repository! This repository contains a Jupyter Notebook aimed at providing insights into various aspects of data science, including tools, languages, libraries, and practical examples.
 
